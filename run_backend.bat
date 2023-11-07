@@ -1,1 +1,2 @@
-node backend/servicio.js
+cd backend
+node servicio.js

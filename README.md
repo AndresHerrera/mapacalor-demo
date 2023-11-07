@@ -19,3 +19,5 @@ $ http-server -p 5000 --cors
 
 Start heatmap demo: 
 http://localhost:5000
+
+![Screenshot](screenshot.png)
